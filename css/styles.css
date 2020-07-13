@@ -1,0 +1,14 @@
+/* TAG Selector */
+h1 {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* CLASS Selector */
+
+
+/* ID Selector */
+#title {
+    background-color: #ff4c68;
+}
